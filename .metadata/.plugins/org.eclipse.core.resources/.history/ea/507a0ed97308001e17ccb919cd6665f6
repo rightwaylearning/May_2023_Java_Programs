@@ -4,8 +4,6 @@ public class Controller {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hell This is Array as class propert example");
-		
 		Student  student = new Student();
 		student.rollNumber = 23;
 		student.studentName = "Suresh Matre";
