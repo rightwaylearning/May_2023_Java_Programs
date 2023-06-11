@@ -1,0 +1,19 @@
+package exampple2;
+
+public class Me {
+
+	int a;
+	int b;
+	static int x;
+	static int y;
+	
+	void m1() {
+		
+	}
+	
+	static void m2() {
+		
+	}
+	
+	
+}

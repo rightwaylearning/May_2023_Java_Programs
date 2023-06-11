@@ -1,0 +1,10 @@
+package static_method_example;
+
+public class Test {
+
+	void m1() {
+		
+		
+		
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;multiple_object_communication_each_other&apos; to &apos;multiple_object_communicate_each_other&apos;&#x0D;&#x0A;- Original element: &apos;multiple_object_communication_each_other&apos;&#x0D;&#x0A;- Renamed element: &apos;multiple_object_communication_each_other&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;multiple_object_communication_each_other&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=multiple_object_communication_each_other" name="multiple_object_communicate_each_other" references="true" stamp="1685463495726" version="1.0"/>
+</session>

@@ -1,0 +1,12 @@
+package testing;
+
+public class B {
+
+	void publish() {
+		
+	}
+	
+	static void show() {
+		
+	}
+}

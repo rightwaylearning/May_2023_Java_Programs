@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="test.TestMe"/>
+    <fullyQualifiedTypeName name="test.MathsOpt"/>
+    <fullyQualifiedTypeName name="movie_name.Friend"/>
+    <fullyQualifiedTypeName name="movie_name.MovieShow"/>
+    <fullyQualifiedTypeName name="student_mini_project.Student"/>
+    <fullyQualifiedTypeName name="student_mini_project.ObjectFactory"/>
+    <fullyQualifiedTypeName name="student_mini_project.Printer"/>
+    <fullyQualifiedTypeName name="transport_delivery.Bag"/>
+    <fullyQualifiedTypeName name="javax.management.openmbean.OpenMBeanAttributeInfo"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="com.tcs.www.employee.info.Address"/>
+    <fullyQualifiedTypeName name="com.rwl.www.Student"/>
+    <fullyQualifiedTypeName name="com.rwl.www.School"/>
+    <fullyQualifiedTypeName name="com.rwl.www.Address"/>
+    <fullyQualifiedTypeName name="com.rwl.www.Printer"/>
+    <fullyQualifiedTypeName name="com.sarswati.mandir.www.Circle"/>
+    <fullyQualifiedTypeName name="testing.examples.Test"/>
+    <fullyQualifiedTypeName name="com.rwl.www.CircleArea"/>
+    <fullyQualifiedTypeName name="example.com.Student"/>
+    <fullyQualifiedTypeName name="java.io.PrintStream"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="array_introduction.StringArray"/>
+    <fullyQualifiedTypeName name="main_method_call.SecondClass"/>
+    <fullyQualifiedTypeName name="test.Address"/>
+    <fullyQualifiedTypeName name="test.Student"/>
+    <fullyQualifiedTypeName name="java.io.StreamCorruptedException"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="test.AdharCard"/>
+</qualifiedTypeNameHistroy>

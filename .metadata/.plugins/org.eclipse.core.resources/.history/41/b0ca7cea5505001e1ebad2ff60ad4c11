@@ -1,0 +1,10 @@
+package testing;
+
+public class Me {
+int i = 10;
+	
+	
+	void m1() {
+		
+	}
+}

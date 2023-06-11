@@ -1,0 +1,27 @@
+package testing;
+
+public class A {
+  
+	int x =10;
+	static int y = 20;
+	
+	void m1() {
+		System.out.println("I am m1 instance method");
+	}
+	
+	static void m2() {
+		System.out.println("I am m2 static method");
+	}
+	
+	void me() {
+		System.out.println(x);
+		System.out.println(y);
+		
+	}
+	
+	static void mySelf() {
+		
+		
+	}
+	
+}

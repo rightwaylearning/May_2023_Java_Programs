@@ -1,0 +1,13 @@
+package test;
+
+import java.io.StreamCorruptedException;
+
+public class ArrayExample {
+
+	public static void main(String[] args) {
+			
+		AdharCard[] cards = new AdharCard[4];
+		
+		
+	}
+}

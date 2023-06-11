@@ -1,0 +1,10 @@
+package test;
+
+public class Student {
+
+	int rollNumber;
+	String studentname;
+	String schoolName;
+	String[] subjects;
+	Address address;
+}

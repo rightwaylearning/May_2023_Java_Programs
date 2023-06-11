@@ -1,0 +1,15 @@
+package main_method_call;
+
+public class FirstClass {
+
+	public static void main(String[] args) {
+		
+		String[] obj = new String[2];
+		obj[0] = "ABC";
+		obj[1] ="PQR";
+		
+		SecondClass.testMe(obj);
+		
+		
+	}
+}

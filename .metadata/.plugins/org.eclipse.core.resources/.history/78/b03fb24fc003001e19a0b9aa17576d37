@@ -1,0 +1,21 @@
+package this_ref_varaible;
+
+public class Test {
+
+	int x;
+	int y;
+	
+	void m1() {
+		int a = 10;
+		int b= 20;
+		
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(x);
+		System.out.println(y);
+		System.out.println(this.x);
+		System.out.println(this.y);
+		System.out.println(this.a);
+		System.out.println(this.b);
+	}
+}

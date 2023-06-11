@@ -1,0 +1,8 @@
+package array_introduction;
+
+public class PrintColor {
+
+	void getColor() {
+		
+	}
+}

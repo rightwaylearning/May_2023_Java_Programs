@@ -1,0 +1,11 @@
+package exampple2;
+
+public class Me {
+
+	public static void main(String[] args) {
+		System.out.println("I am me");
+		
+		String[] p = new String[2];
+		Hello.main(p);
+	}
+}

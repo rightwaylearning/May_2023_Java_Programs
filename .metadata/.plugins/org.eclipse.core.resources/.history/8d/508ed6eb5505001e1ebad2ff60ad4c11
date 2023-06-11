@@ -1,0 +1,19 @@
+package testing;
+
+public class Test {
+	
+	int i = 10;
+	
+	
+	void m1() {
+		
+	}
+
+	
+	
+	public static void main(String[] args) {
+		Test t= new Test();
+		System.out.println(t.i);
+		t.m1();
+	}
+}

@@ -1,0 +1,9 @@
+package main_method_call;
+
+public class SecondClass {
+
+	
+	public static void main(String[] args) {
+		
+	}
+}
