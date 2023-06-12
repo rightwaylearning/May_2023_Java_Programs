@@ -1,0 +1,15 @@
+package reference.type.array;
+
+public class Controller {
+
+	public static void main(String[] args) {
+		
+		
+		ClassRoom room= new ClassRoom();
+		room.std = "5th";
+		room.classTeacherName = "varsha rani";
+		room.students = new Student[3];
+		
+		
+	}
+}

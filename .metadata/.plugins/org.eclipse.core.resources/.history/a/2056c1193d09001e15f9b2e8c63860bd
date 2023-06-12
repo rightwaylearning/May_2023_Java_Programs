@@ -1,0 +1,10 @@
+package reference.type.array;
+
+public class ViewClassRoomInfo {
+
+	
+	static void printInfo(ClassRoom room) {
+		
+	}
+}
+
