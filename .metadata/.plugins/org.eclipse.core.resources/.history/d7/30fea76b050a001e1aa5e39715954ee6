@@ -1,0 +1,24 @@
+package default_values;
+
+public class Controller {
+
+	public static void main(String[] args) {
+		
+		Test t= new Test();
+		
+		System.out.println(t.b);
+		System.out.println(t.s);
+		System.out.println(t.i);
+		System.out.println(t.l);
+		System.out.println(t.f);
+		System.out.println(t.d);
+		System.out.println(t.c);
+		System.out.println(t.b1);
+		
+		System.out.println(t.arr);
+		System.out.println(t.adr);
+		System.out.println(t.str);
+		
+		
+	}
+}

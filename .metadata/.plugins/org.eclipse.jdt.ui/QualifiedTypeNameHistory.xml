@@ -29,4 +29,10 @@
     <fullyQualifiedTypeName name="java.io.StreamCorruptedException"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="test.AdharCard"/>
+    <fullyQualifiedTypeName name="reference.type.array.Student"/>
+    <fullyQualifiedTypeName name="reference.type.array.ClassRoom"/>
+    <fullyQualifiedTypeName name="default_values.Test"/>
+    <fullyQualifiedTypeName name="default_values.Student"/>
+    <fullyQualifiedTypeName name="property.assignment.Student"/>
+    <fullyQualifiedTypeName name="default_values_of_array_elements.Test"/>
 </qualifiedTypeNameHistroy>

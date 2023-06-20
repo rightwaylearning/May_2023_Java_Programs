@@ -1,8 +1,0 @@
-package exampple2;
-
-public class Hello {
-
-	 void main(String[] args) {
-		System.out.println("Hello");
-	}
-}

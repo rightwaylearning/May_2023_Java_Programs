@@ -1,0 +1,12 @@
+package property.assignment;
+
+public class Controller {
+
+	public static void main(String[] args) {
+		
+		Product p = new Product();
+		
+		p.assignValues("PEN", 90.78);
+		
+	}
+}

@@ -1,0 +1,19 @@
+package default_values_of_array_elements;
+
+public class Test {
+  
+	
+	
+	public static void main(String[] args) {
+		
+		Student[] arr = new Student[10]; // byte short int long >> 0
+		                         // float , double
+		                         // boolean, char
+	    
+		System.out.println(arr[5]);
+		
+	}
+	
+}
+
+

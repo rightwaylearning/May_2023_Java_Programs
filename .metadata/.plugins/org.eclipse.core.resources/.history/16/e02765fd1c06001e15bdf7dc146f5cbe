@@ -1,8 +1,0 @@
-package main_method_call;
-
-public class SecondClass {
-
-	static void testMe(String[] arr) {
-		
-	}
-}

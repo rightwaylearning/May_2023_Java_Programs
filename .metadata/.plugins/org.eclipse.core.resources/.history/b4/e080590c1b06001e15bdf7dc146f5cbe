@@ -1,8 +1,0 @@
-package array_introduction;
-
-public class Sample {
-
-	void printArrayInfo(int[] info) {
-		
-	}
-}

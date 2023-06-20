@@ -1,0 +1,13 @@
+package default_values;
+
+public class Controller {
+
+	 int i;
+	 
+     public static void main(String[] args){
+
+       int i;
+       System.out.println(i);  //0
+
+     }
+}

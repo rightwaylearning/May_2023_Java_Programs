@@ -1,0 +1,7 @@
+package property.assignment;
+
+public class Product {
+
+	String productName;;
+	double productPrice;
+}

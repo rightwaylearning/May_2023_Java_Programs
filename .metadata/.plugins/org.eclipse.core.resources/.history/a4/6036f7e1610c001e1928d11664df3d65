@@ -1,0 +1,20 @@
+package property.assignment;
+
+public class Product {
+
+	private String productName;;
+	private double productPrice;
+
+	void assignValues(String productName, double productPrice) {
+		this.productName = productName;
+		this.productPrice = productPrice;
+	}
+
+	String getName() {
+		return this.productName;
+	}
+
+	double getPrice() {
+		return this.productPrice;
+	}
+}

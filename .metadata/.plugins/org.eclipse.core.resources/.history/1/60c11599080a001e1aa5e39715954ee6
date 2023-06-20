@@ -1,0 +1,14 @@
+package default_values;
+
+public class Controller {
+
+	 
+	 
+     public static void main(String[] args){
+
+        byte b = 10;
+        
+        long l = (long)b;
+
+     }
+}
