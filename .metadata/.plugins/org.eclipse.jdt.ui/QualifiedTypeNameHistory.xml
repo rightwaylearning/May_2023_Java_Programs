@@ -35,4 +35,5 @@
     <fullyQualifiedTypeName name="default_values.Student"/>
     <fullyQualifiedTypeName name="property.assignment.Student"/>
     <fullyQualifiedTypeName name="default_values_of_array_elements.Test"/>
+    <fullyQualifiedTypeName name="var_arg_method.Cal"/>
 </qualifiedTypeNameHistroy>
