@@ -50,6 +50,37 @@ public class PrePostIncrementDiff {
 		System.out.println(d); // >>>>>>>>>>>>>>>>>// 15
 		
 		
+		//-----------------------------------------
+		
+		
+		int size = 10;
+		
+		++size;
+		size++;
+		--size;
+		size--;
+		
+		//------------------------
+		
+	//	++11;  >> its C.E
+		
+		
+		char ch = 'A';
+		ch++;
+		System.out.println(ch);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 	}
