@@ -1,9 +1,0 @@
-package var_arg_method;
-
-public class Cal {
-
-	
-	void sum(int... num) {
-		System.out.println("I am here");
-	}
-}

@@ -27,7 +27,6 @@
     <fullyQualifiedTypeName name="test.Address"/>
     <fullyQualifiedTypeName name="test.Student"/>
     <fullyQualifiedTypeName name="java.io.StreamCorruptedException"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="test.AdharCard"/>
     <fullyQualifiedTypeName name="reference.type.array.Student"/>
     <fullyQualifiedTypeName name="reference.type.array.ClassRoom"/>
@@ -37,4 +36,8 @@
     <fullyQualifiedTypeName name="default_values_of_array_elements.Test"/>
     <fullyQualifiedTypeName name="var_arg_method.Cal"/>
     <fullyQualifiedTypeName name="increments_decrements.Operations"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="short_circuit.operartors.Proof"/>
 </qualifiedTypeNameHistroy>

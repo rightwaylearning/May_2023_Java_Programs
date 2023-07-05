@@ -78,10 +78,13 @@ public class Test {
 	    System.out.println(str2);
 	    //-----------------------------------------------
 		
+		StringBuffer br= new StringBuffer();
 		
 		
+		//-----------------------
 		
-		
+		String s = 10 + 23 -78 + "00";
+		System.out.println(s);
 		
 		
 		
