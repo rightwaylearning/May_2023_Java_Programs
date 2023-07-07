@@ -40,4 +40,6 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Process"/>
     <fullyQualifiedTypeName name="short_circuit.operartors.Proof"/>
+    <fullyQualifiedTypeName name="flow_controll_assignment.Student"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
 </qualifiedTypeNameHistroy>
