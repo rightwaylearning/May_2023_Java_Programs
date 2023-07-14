@@ -1,3 +1,4 @@
+package while_loop_programs;
 
 public class WhileLoop {
 
@@ -82,12 +83,28 @@ public class WhileLoop {
 //			index++;
 //		}
 		
+		//         0 1 2   >>>>>>>>>>>>position
+	  int[] arr = {1,5,8,4,9,10,12}; // >> array element
 		
+	  int even_sum = 0;
+	  int odd_sum =0;
+	  
+	  int index =0;
 		
+		while(index < arr.length) {
+			
+			if(arr[index]%2 == 0) {
+				even_sum = even_sum + arr[index];
+			}else {
+				odd_sum = odd_sum + arr[index];	
+			}
+			
+			
+			index++;
+		}
 		
-		
-		
-		
+		System.out.println("even number sum "+even_sum);
+		System.out.println("odd number sum "+odd_sum);
 
 	}
 }
