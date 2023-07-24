@@ -25,7 +25,6 @@
     <fullyQualifiedTypeName name="array_introduction.StringArray"/>
     <fullyQualifiedTypeName name="main_method_call.SecondClass"/>
     <fullyQualifiedTypeName name="test.Address"/>
-    <fullyQualifiedTypeName name="test.Student"/>
     <fullyQualifiedTypeName name="java.io.StreamCorruptedException"/>
     <fullyQualifiedTypeName name="test.AdharCard"/>
     <fullyQualifiedTypeName name="reference.type.array.Student"/>
@@ -42,4 +41,19 @@
     <fullyQualifiedTypeName name="short_circuit.operartors.Proof"/>
     <fullyQualifiedTypeName name="flow_controll_assignment.Student"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="first.MySelf"/>
+    <fullyQualifiedTypeName name="second.Mine"/>
+    <fullyQualifiedTypeName name="javax.crypto.spec.SecretKeySpec"/>
+    <fullyQualifiedTypeName name="first.Mine"/>
+    <fullyQualifiedTypeName name="second.Mi"/>
+    <fullyQualifiedTypeName name="java.lang.NoClassDefFoundError"/>
+    <fullyQualifiedTypeName name="first.Note"/>
+    <fullyQualifiedTypeName name="second.Dinner"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.css.CSSRule"/>
+    <fullyQualifiedTypeName name="test.Student"/>
+    <fullyQualifiedTypeName name="abstract_modifier.Restaurant"/>
+    <fullyQualifiedTypeName name="abstract_modifier.Dinner"/>
+    <fullyQualifiedTypeName name="final_modifires.Parent"/>
+    <fullyQualifiedTypeName name="final_modifires.Child"/>
+    <fullyQualifiedTypeName name="com.rwl.www.Employee"/>
 </qualifiedTypeNameHistroy>

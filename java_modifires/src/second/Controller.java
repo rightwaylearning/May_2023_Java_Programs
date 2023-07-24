@@ -21,6 +21,6 @@ public class Controller {
 		 m2.showMessage();
 		 
 		
-		 Dinner d = new Dinner();  //Cannot instantiate the type Dinner
+		 //Dinner d = new Dinner();  //Cannot instantiate the type Dinner
 	}
 }

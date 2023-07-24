@@ -1,6 +1,8 @@
 package first;
 
-public class Mine {
+ class Mine {
+	
+	public int a;
 
 	public void showMessage() {
 		System.out.println("I am first.Mine class");
