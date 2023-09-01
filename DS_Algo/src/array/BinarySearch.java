@@ -1,20 +1,35 @@
 package array;
 
 public class BinarySearch {
-     // int target = 84;
-	//Integer[] arr = [4,9,8,11,56, 59,    83,84,90,99,245  ];
+     
+	static int  binarySearch(int[] arr, int target) {
+		int start = 0;
+		int end = arr.length -1;
+		
+		while(start <= end) {
+			int mid = (start + end)/2;
+		
+			if(arr[mid] == target) {
+				return mid;
+			}
+			
+			if(arr[mid] < target) {
+				start = mid +1;
+			}
+			
+			if(arr[mid] >  target){
+				end = mid -1;
+			}
+		}
+			
+		return -1;
+	}
 	
-	// minIndex = 0,              maxIndex = arr.legth-1
-	// How to find mid of array mid index
-	//   (minIndex + MaxIndex) /2 =  5 >> this is mid index
-	//  arr[midIndex] == taregt;
-	    // return midIndex;
-	    // else
-   //  midIndex =      6  + 10 /2 = 8
-	
-	// arr[8] == target 
-	   // return 8
-	// maxIndex = 7
-	// minIndex = 6 
-	//mid = 13/2 = 6
+	public static void main(String[] args) {
+		
+		int[] arr = {3,7,9,11,17,54,61,78,89,93};
+		
+		int index = BinarySearch.binarySearch(arr,64);
+		System.out.println(index);
+	}
 }
