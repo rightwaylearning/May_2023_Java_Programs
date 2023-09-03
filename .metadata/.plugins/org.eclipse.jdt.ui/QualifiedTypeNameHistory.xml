@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="short_circuit.operartors.Proof"/>
     <fullyQualifiedTypeName name="flow_controll_assignment.Student"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="first.MySelf"/>
@@ -56,8 +55,9 @@
     <fullyQualifiedTypeName name="javax.xml.crypto.dsig.keyinfo.X509IssuerSerial"/>
     <fullyQualifiedTypeName name="list.Student"/>
     <fullyQualifiedTypeName name="java.util.Stack"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="pack1.Test"/>
     <fullyQualifiedTypeName name="pack2.Student"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>
