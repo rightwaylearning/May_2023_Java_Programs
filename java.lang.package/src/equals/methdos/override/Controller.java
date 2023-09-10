@@ -18,5 +18,7 @@ public class Controller {
 		System.out.println(c1.equals(c3)); // false
 		
 		System.out.println(c1.equals(c4)); // false;
+		
+		Object 
 	}
 }

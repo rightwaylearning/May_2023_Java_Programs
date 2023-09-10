@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="flow_controll_assignment.Student"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="first.MySelf"/>
-    <fullyQualifiedTypeName name="second.Mine"/>
-    <fullyQualifiedTypeName name="javax.crypto.spec.SecretKeySpec"/>
-    <fullyQualifiedTypeName name="first.Mine"/>
-    <fullyQualifiedTypeName name="second.Mi"/>
-    <fullyQualifiedTypeName name="java.lang.NoClassDefFoundError"/>
-    <fullyQualifiedTypeName name="first.Note"/>
-    <fullyQualifiedTypeName name="second.Dinner"/>
-    <fullyQualifiedTypeName name="org.w3c.dom.css.CSSRule"/>
     <fullyQualifiedTypeName name="test.Student"/>
     <fullyQualifiedTypeName name="abstract_modifier.Restaurant"/>
     <fullyQualifiedTypeName name="abstract_modifier.Dinner"/>
@@ -29,7 +18,6 @@
     <fullyQualifiedTypeName name="javax.swing.text.html.HTML.Tag"/>
     <fullyQualifiedTypeName name="runtime_poly.MySelf"/>
     <fullyQualifiedTypeName name="runtime_poly.MySelf11"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="collection.examples.Student"/>
     <fullyQualifiedTypeName name="java.lang.Iterable"/>
@@ -59,5 +47,17 @@
     <fullyQualifiedTypeName name="pack2.Student"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="object.class_methods.Student"/>
+    <fullyQualifiedTypeName name="javax.accessibility.AccessibleAttributeSequence"/>
+    <fullyQualifiedTypeName name="equals.methdos.override.Car"/>
+    <fullyQualifiedTypeName name="object.class_methods.Employee"/>
+    <fullyQualifiedTypeName name="java.nio.file.ClosedFileSystemException"/>
+    <fullyQualifiedTypeName name="dynamic_array.ResizableArray"/>
+    <fullyQualifiedTypeName name="java.net.InetSocketAddress"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="link.list.Employee"/>
+    <fullyQualifiedTypeName name="java.util.Hashtable"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
