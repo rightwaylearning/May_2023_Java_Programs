@@ -25,6 +25,9 @@ public class ArrayListDemo {
 		list.add(122);
 		System.out.println(list.size());
 		
+		//Integer i = 122;
+		list.remove(122);
+		
 		System.out.println(list);
 	}
 }
