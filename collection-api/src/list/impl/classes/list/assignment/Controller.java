@@ -9,6 +9,7 @@ public class Controller {
 	public static int getFirstRankStudent(List<Student> list) {
 		int index  = -1;
 		Double percentage = 0.0;
+		
 		for(int i =0 ; i<list.size();i++) {
 			Student student = list.get(i);
 			if(student.getPercentage() > percentage) {
