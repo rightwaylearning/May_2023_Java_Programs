@@ -2,11 +2,13 @@ package travel.collection.objects.cursor;
 
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.LinkedList;
 import java.util.List;
 
 public class IteratorDemo {
 
 	public static void main(String[] args) {
+		LinkedList<E>
 		List<Integer> list = new ArrayList<>();
 		list.add(100);
 		list.add(200);
