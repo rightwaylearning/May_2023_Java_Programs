@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="SuperConstrcutorCall.Child"/>
-    <fullyQualifiedTypeName name="SuperConstrcutorCall.MySelf"/>
-    <fullyQualifiedTypeName name="stack.impl.using.array.Stack"/>
     <fullyQualifiedTypeName name="stack.impl.using.array.StackImpl"/>
     <fullyQualifiedTypeName name="queue.impl.Queue"/>
     <fullyQualifiedTypeName name="queue.impl.QueueImpl"/>
@@ -46,7 +43,6 @@
     <fullyQualifiedTypeName name="java.util.Enumeration"/>
     <fullyQualifiedTypeName name="java.util.Stack"/>
     <fullyQualifiedTypeName name="collection.set.examples.Student"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="HashSetInternally"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
@@ -59,5 +55,9 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="treeset_sorting_examples.Person"/>
     <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>
